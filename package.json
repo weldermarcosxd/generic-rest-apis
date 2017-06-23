@@ -1,0 +1,31 @@
+{
+  "name": "generic-rest-apis",
+  "version": "2.0.1",
+  "description": "Express JS generic rest api based on your sequelize models",
+  "main": "index.js",
+  "keywords": [
+    "rest",
+    "restful",
+    "api",
+    "express",
+    "sequelize",
+    "generic",
+    "generator"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Welde Marcos <weldermarcosxd@gmail.com> (http://github.com/weldermarcosxd)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weldermarcosxd/generic-rest-apis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weldermarcosxd/generic-rest-apis/issues"
+  },
+  "homepage": "https://github.com/weldermarcosxd/generic-rest-apis#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
